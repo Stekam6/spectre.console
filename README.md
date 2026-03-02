@@ -10,7 +10,7 @@ It is heavily inspired by the excellent Python library, [Rich](https://github.co
 1. [Features](#features)
 1. [Installing](#installing)
 1. [Documentation](#documentation)
-1. [Examples](#examples)
+1. [Examples](#examples)    
 1. [Code of Conduct](#code-of-conduct)
 1. [.NET Foundation](#net-foundation)
 1. [License](#license)
