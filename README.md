@@ -49,7 +49,7 @@ https://spectreconsole.net
 ## Examples
 
 To see `Spectre.Console` in action, please see the 
-[examples repository](https://github.com/spectreconsole/examples).
+[examples re  pository](https://github.com/spectreconsole/examples).
 
 ## Code of Conduct
 
